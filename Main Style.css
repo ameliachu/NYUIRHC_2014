@@ -1,0 +1,12 @@
+
+/* HEADER */
+/* BODY */
+h1 { 
+    font-family: Ostrich Sans;
+    font-size: large; /* Should we use this, or percentages? Also, is large too large? - AC*/ 
+}
+p {
+    font-family: Helvetica;
+    font-size: medium; /* Read online that medium is a good size for content. Need to check up on this. - AC*/ 
+}
+/* FOOTER */
