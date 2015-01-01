@@ -10,4 +10,9 @@ p {
     font-family: helvetica, arial, san-serif;
     font-size: 1 em; /* em or percentages? - AC*/ 
 }
+/* ABOUT US*/
+#MemberName {
+    font-family: helvetica, arial, san-serif;
+    font-size: 1 em;
+}
 /* FOOTER */
