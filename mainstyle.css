@@ -9,6 +9,7 @@ h1 {
 p {
     font-family: helvetica, arial, san-serif;
     font-size: 1 em; /* em or percentages? - AC*/ 
+    line-height:50%;
 }
 /* ABOUT US*/
 td {
