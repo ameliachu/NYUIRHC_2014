@@ -1,17 +1,17 @@
 
 html{
-    font-size:1 em;
+    font-size:100%;
 }
 /* HEADER */
 /* BODY */
 h1 { 
     font-family: Ostrich Sans;
-    font-size: 2 em; /* Should we use this, or percentages? - AC*/ 
+    font-size: 200%; /* Should we use this, or percentages? - AC*/ 
     color: 57068c; /*NYU Purple*/
 }
 p {
     font-family: helvetica, arial, san-serif;
-    font-size: 1 em; /* em or percentages? - AC*/ 
+    font-size: 100%; /* em or percentages? - AC*/ 
     line-height:100%;
 }
 /* ABOUT US*/
@@ -28,13 +28,13 @@ td {
     max-height:150 px;
 }
 #MemberName {
-    font-family: helvetica, arial, san-serif;
-    font-size: 1 em;
+    font-family: inherit;
+    font-size: 100%;
     font-weight: bold;
 }
 #MemberTitle {
-    font-family: helvetica, arial, san-serif;
-    font-size: .5 em;
+    font-family: inherit;
+    font-size: 50% ;
 }
 
 /* FOOTER */
