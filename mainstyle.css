@@ -12,6 +12,12 @@ p {
     line-height:50%;
 }
 /* ABOUT US*/
+table {
+    max-width:100%;
+}
+td {
+    text-align:center;
+}
 #headshots {
     max-width:150 px;
     max-height:150 px;
