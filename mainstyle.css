@@ -16,8 +16,8 @@ td {
     max-width:50%;
 }
 img.headshots {
-    max-width:50%;
-    max-height:50%;
+    max-width:3 em;
+    max-height:3 em;
 }
 #MemberName {
     font-family: helvetica, arial, san-serif;
