@@ -11,8 +11,12 @@ p {
     font-size: 1 em; /* em or percentages? - AC*/ 
 }
 /* ABOUT US*/
+td {
+    max-width:50%;
+}
 #MemberName {
     font-family: helvetica, arial, san-serif;
     font-size: 1 em;
 }
+
 /* FOOTER */
