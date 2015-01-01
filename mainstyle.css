@@ -17,6 +17,11 @@ td {
 #MemberName {
     font-family: helvetica, arial, san-serif;
     font-size: 1 em;
+    font-weight: bold;
+}
+#MemberTitle {
+    font-family: helvetica, arial, san-serif;
+    font-size: .5 em;
 }
 
 /* FOOTER */
