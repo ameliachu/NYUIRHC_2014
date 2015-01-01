@@ -13,8 +13,8 @@ p {
 }
 /* ABOUT US*/
 img.headshots {
-    max-width:.25 em;
-    max-height:.25 em;
+    max-width:150 px;
+    max-height:150 px;
 }
 #MemberName {
     font-family: helvetica, arial, san-serif;
