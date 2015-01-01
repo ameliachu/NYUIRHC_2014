@@ -12,7 +12,7 @@ p {
     line-height:50%;
 }
 /* ABOUT US*/
-.headshots {
+#headshots {
     max-width:150 px;
     max-height:150 px;
 }
