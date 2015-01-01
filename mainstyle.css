@@ -17,6 +17,8 @@ table {
 }
 td {
     text-align:center;
+    max-width:200 px;
+    padding:2%;
 }
 #headshots {
     max-width:150 px;
