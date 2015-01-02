@@ -37,6 +37,12 @@ td {
     max-width:200 px;
     padding:2%;
 }
+#moreInfo{
+    font-family: helvetica, arial, san-serif;
+    font-size: 200%;
+    font-weight: bold;
+    color: 57068c;
+}
 #headshots {
     max-width:150 px;
     max-height:150 px;
