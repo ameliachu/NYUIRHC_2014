@@ -35,11 +35,11 @@ td {
 #MemberTitle {
     font-family: helvetica, arial, san-serif;
     font-size: 100%;
+    font-weight: bold;
 }
 #MemberAffiliation {
     font-family: helvetica, arial, san-serif;
-    font-size: 75%;
-    font-style: italic;
+    font-size: 100%;
 }
 
 /* FOOTER */
