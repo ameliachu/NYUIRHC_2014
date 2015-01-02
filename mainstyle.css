@@ -42,6 +42,7 @@ td {
     font-size: 200%;
     font-weight: bold;
     color: 57068c;
+    text-decoration: none;
 }
 #headshots {
     max-width:150 px;
