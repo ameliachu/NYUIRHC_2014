@@ -14,6 +14,11 @@ h2 {
     font-size: 300%;
     color: 57068c;
 }
+h3 {
+    font-family: helvetica, arial, san-serif;
+    font-size: 200%;
+    color: 57068c;
+}
 p {
     font-family: helvetica, arial, san-serif;
     font-size: 100%; /* em or percentages? - AC*/ 
