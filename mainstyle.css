@@ -28,6 +28,20 @@ p {
     font-size: 100%; /* em or percentages? - AC*/ 
     line-height:100%;
 }
+/* unvisited link */
+a:link {
+    color: 57068c;
+}
+
+/* visited link */
+a:visited {
+    color: 57068c;
+}
+
+/* mouse over link */
+a:hover {
+    color: 57068c;
+    opacity:.75;
 /* ABOUT US*/
 table {
     width:100%;
