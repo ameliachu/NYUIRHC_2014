@@ -9,6 +9,11 @@ h1 {
     font-size: 200%; /* Should we use this, or percentages? - AC*/ 
     color: 57068c; /*NYU Purple*/
 }
+h2 {
+    font-family: helvetica, arial, san-serif;
+    font-size: 300%;
+    color: 57068c;
+}
 p {
     font-family: helvetica, arial, san-serif;
     font-size: 100%; /* em or percentages? - AC*/ 
