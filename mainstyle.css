@@ -58,10 +58,12 @@ td {
     font-family: helvetica, arial, san-serif;
     font-size: 100%;
     font-weight: bold;
+    max-width:200 px;
 }
 #MemberAffiliation {
     font-family: helvetica, arial, san-serif;
     font-size: 100%;
+    max-width:200 px;
 }
 
 /* FOOTER */
