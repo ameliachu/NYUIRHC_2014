@@ -66,6 +66,10 @@ td {
     max-width:250 px;
 }
 /* BIOGRAPHIES*/
+#BioText{
+    padding:2%;
+}
+
 #BioName {
     font-family: helvetica, arial, san-serif;
     font-size: 150%;
