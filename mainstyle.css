@@ -82,17 +82,19 @@ td {
 #BioDescript {
     font-family: helvetica, arial, san-serif;
     font-size: 100%; /* em or percentages? - AC*/ 
-    line-height:100%;
+    line-height:150%;
     text-align:left;
 }
 #BioBuddies{
     font-family: helvetica, arial, san-serif;
     font-size: 100%; /* em or percentages? - AC*/ 
     line-height:100%;
+    text-align:left;
 }
 #BioHours{
     font-family: helvetica, arial, san-serif;
     font-size: 100%; /* em or percentages? - AC*/ 
     line-height:100%;
+    text-align:left;
 }
 /* FOOTER */
