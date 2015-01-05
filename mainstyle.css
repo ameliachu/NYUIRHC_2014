@@ -33,11 +33,6 @@ p {
 #memberGrid {
     width:100%;
 }
-td {
-    text-align:center;
-    max-width:25%;
-    padding:2%;
-}
 #moreInfo{
     font-family: helvetica, arial, san-serif;
     font-size: 200%;
