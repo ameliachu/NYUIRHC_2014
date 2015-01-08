@@ -28,6 +28,9 @@ p {
     font-size: 100%; /* em or percentages? - AC*/ 
     line-height:150%;
 }
+#short-descrip {
+    margin-top:-2%;
+}
 
 /* ABOUT US*/
 
