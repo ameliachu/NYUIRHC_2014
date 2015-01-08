@@ -47,14 +47,10 @@ audio:not([controls]) {
 template {
   display: none;
 }
-a {
-  background-color: transparent;
-  text-decoration:none;
-  color: 57068c;
-}
+a:link,
 a:active,
 a:hover {
-  outline: 0;
+  background-color: transparent;
   text-decoration:none;
   color: 57068c;
 }
