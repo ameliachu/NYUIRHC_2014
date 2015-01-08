@@ -49,10 +49,13 @@ template {
 }
 a {
   background-color: transparent;
+  text-decoration:none;
+  color: 57068c;
 }
 a:active,
 a:hover {
   outline: 0;
+  text-decoration:none;
 }
 abbr[title] {
   border-bottom: 1px dotted;
