@@ -87,8 +87,8 @@ img.headshots {
 }
 #BioDescript {
     font-family: helvetica, arial, san-serif;
-    font-size: 90%; /* em or percentages? - AC*/ 
-    line-height:170%;
+    font-size: 100%; /* em or percentages? - AC*/ 
+    line-height:200%;
     text-align:left;
 }
 #BioBuddies{
