@@ -1147,6 +1147,9 @@ tbody.collapse.in {
     right: auto;
   }
 }
+@-moz-document url-prefix() {
+  fieldset { display: table-cell; }
+}
 .panel {
   margin-bottom: 20px;
   background-color: #fff;
