@@ -7,7 +7,7 @@ html{
 body {
     background-color:#F9F8F2;
     padding:5%;
-}
+}/Users/ameliachu/Dropbox/NYUIRHC_2014/mainstyle.css
 h1 { 
     font-family: Ostrich Sans;
     font-size: 200%; /* Should we use this, or percentages? - AC*/ 
@@ -104,4 +104,6 @@ img.headshots {
     line-height:100%;
     text-align:left;
 }
+/*EVENTS*/
+
 /* FOOTER */
